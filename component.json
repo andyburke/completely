@@ -1,0 +1,20 @@
+{
+  "name": "completely",
+  "repo": "lorenzoongithub/completely",
+  "description": "A fresh take on autocompletion for a wonderful user experience.",
+  "version": "1.0.1",
+  "author": "Lorenzo Puccetti",
+  "keywords": [
+    "autocomplete",
+    "suggestions"
+  ],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "main": "completely.js",
+  "scripts": [
+    "completely.js"
+  ]
+}
